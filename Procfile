@@ -1,1 +1,1 @@
-web: gunicorn comment.wsgi --log-file -
+web: gunicorn ml.wsgi --log-file -

@@ -1,1 +1,1 @@
-web: gunicorn inforesume.wsgi --log-file -
+web: gunicorn comment.wsgi --log-file -
